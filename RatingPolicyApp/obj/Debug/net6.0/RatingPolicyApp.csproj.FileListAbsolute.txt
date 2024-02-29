@@ -1,0 +1,17 @@
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\bin\Debug\net6.0\RatingPolicyApp.exe
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\bin\Debug\net6.0\RatingPolicyApp.deps.json
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\bin\Debug\net6.0\RatingPolicyApp.runtimeconfig.json
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\bin\Debug\net6.0\RatingPolicyApp.dll
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\bin\Debug\net6.0\RatingPolicyApp.pdb
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\RatingPolicyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\RatingPolicyApp.AssemblyInfoInputs.cache
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\RatingPolicyApp.AssemblyInfo.cs
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\RatingPolicyApp.csproj.CoreCompileInputs.cache
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\RatingPolicyApp.dll
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\refint\RatingPolicyApp.dll
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\RatingPolicyApp.pdb
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\RatingPolicyApp.genruntimeconfig.cache
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\ref\RatingPolicyApp.dll
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\RatingPolicyApp.csproj.AssemblyReference.cache
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\moshe\Desktop\moshe\RatingPolicyApp\obj\Debug\net6.0\RatingPolicyApp.csproj.CopyComplete
